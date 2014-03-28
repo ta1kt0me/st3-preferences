@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme", // RailsCasts Color Scheme
 	"disable_formatted_linebreak": true,
 	"draw_indent_guides": true,
 	"font_face": "Ricty",
@@ -14,12 +14,9 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"rulers":
-	[
-		50
-	],
+	"rulers": [ 50 ],
 	"show_full_path": true,
-	"theme": "Flatland Dark.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",	// Theme - Flatland
 	"vintage_ctrl_keys": true,
 	"vintage_start_in_command_mode": true,
 	"trim_trailing_white_space_on_save": true,
