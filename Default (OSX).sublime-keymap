@@ -1,0 +1,19 @@
+[
+	{ "keys": ["w", "w"], "command": "next_view",
+    "context":
+        [
+            { "key": "setting.command_mode", "operand": true },
+            { "key": "setting.is_widget", "operand": false }
+        ]
+    },
+    { "keys": ["q", "q"], "command": "prev_view",
+        "context":
+        [
+            { "key": "setting.command_mode", "operand": true },
+            { "key": "setting.is_widget", "operand": false }
+        ]
+    },
+    { "keys": ["alt+s"], "command": "goto_definition" },
+    { "keys": ["alt+f"], "command": "jump_forward" },
+    { "keys": ["alt+b"], "command": "jump_back" },
+]

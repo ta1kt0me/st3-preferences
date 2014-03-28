@@ -1,0 +1,27 @@
+{
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"disable_formatted_linebreak": true,
+	"draw_indent_guides": true,
+	"font_face": "Ricty",
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"rulers":
+	[
+		50
+	],
+	"show_full_path": true,
+	"theme": "Flatland Dark.sublime-theme",
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true,
+	"trim_trailing_white_space_on_save": true,
+	"tab_size": 2
+}
